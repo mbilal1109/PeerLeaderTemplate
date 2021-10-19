@@ -1,0 +1,159 @@
+body {
+  font-family: helvetica, sans-serif, arial;
+  background-color: ivory;
+}
+
+p{
+  line-height: 160%;
+}
+
+.banner {
+  background-color: #0036a4;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.heading {
+  text-shadow: 4px 4px 4px #aaa;
+  color: gold;
+}
+
+.navbar {
+  background-color: gold;
+  margin-top: -17px;
+}
+
+.navbar ul {
+  width: 70%;
+  text-align: center;
+  list-style-type: none;
+  margin: auto;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  font-size: 17px;
+  width: 18%;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.navbar li a:hover {
+  background-color: #0046FF;
+  color: white;
+}
+
+.letter {
+  color: white;
+  font-size: 50px;
+}
+
+.image {
+  float: right;
+  padding-right: 20px;
+  padding-top: 70px;
+  padding-left: 10px;
+}
+
+.content {
+  background-color: white;
+  padding: 5px;
+  padding-right: 5px;
+}
+
+
+.section a:hover{
+  background-color: gold;
+  color: black;
+}
+
+.section {
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+
+}
+
+.section li {
+  display: inline;
+}
+
+.section a {
+  text-decoration: none;
+  color: #0036a4;
+  padding: 8px;
+  margin-left:4px ;
+  margin-right:4px ;
+
+}
+
+.section li a {
+  text-decoration: none;
+  padding: 8px;
+  margin-left:4px ;
+  margin-right:4px ;
+}
+
+.map li a{
+  text-decoration: none;
+  color: #0036a4;
+}
+
+.map {
+   padding: 20px;
+   margin: 40px;
+   font-size: 22px;
+}
+
+.footer {
+  float: none;
+  background-color: #0036a4;
+  text-align: center;
+}
+.footer ul {
+  width: 100%;
+  text-align: center;
+  list-style-type: none;
+  margin: auto;
+  overflow: hidden;
+}
+
+.links {
+  color: gold;
+}
+
+.footer li a:hover {
+  background-color: gold;
+  color: black;
+
+}
+
+.footer a {
+  float: left;
+  font-size: 17px;
+  width: 18%;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+img {
+  float: none;
+}
+
+#logo{
+  text-align: center;
+}
